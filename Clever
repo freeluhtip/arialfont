@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Links Collection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+            line-height: 1.6;
+        }
+
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .links-section {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+        }
+
+        .link-card {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .link-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-color: #3498db;
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+            font-size: 18px;
+            display: block;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: #2980b9;
+        }
+
+        .search-box {
+            width: 100%;
+            max-width: 300px;
+            padding: 10px;
+            margin: 0 auto 20px;
+            display: block;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>arial font.</h1>
+        
+        <input type="text" class="search-box" placeholder="search" id="searchBox">
+        
+        <div class="links-section">
+            <div class="link-card">
+                <a href="https://storage.googleapis.com/padlet-uploads/1465166829/7b89eec39e04ca34145de5dcc72c4b77/boomboom__1___1_.html">Minecraft</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://a6936-19375562.cluster7.canvas-user-content.com/courses/6936~1010708/files/6936~19375562/course%20files/vfcd/index.html?context_id=6936~1010708context_type=Course&download=1&id=69360000019375562&inline=1">Subway Surfers</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://chattybarneys-website-12953146.codehs.me/index.html">Sunflower Field</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://gamehub-12687470.codehs.me/index.html">Mainstream Games</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://jsitor.com/preview/22r4a-ts8v">Time Shooter 3</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://existence-12378177.codehs.me/">CLICK "EXIST"</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://d1tm91r4ytbt54.cloudfront.net/b93894a7-b29b-4edc-8866-c733ff7d695b/1671689486925/retrobowl/index.html">Retro Bowl</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://2026263.playcode.io/">Retro Bowl (Other Link)</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://slope2.s3.us-east-1.amazonaws.com/file/index.html">Slope 2</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://tombofthemask.s3.amazonaws.com/file/index.html">Tomb of the Mask</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://baldis-basics.s3.amazonaws.com/file/index.html">Baldi's Basics</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://fireboy-and-watergirl.s3.amazonaws.com/file/index.html">Fireboy & Watergirl</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://classroom-opensocial.googleusercontent.com/gadgets/ifr?url=https://groups.google.com/group/classroomgoogl-net/attach/9b57f0b5b002c/gl.xml?part=0.1&view=1&container=ig">Block Blast</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/435345345346@main/d8g3s-53253463456pp.xml&container=ig">Paper.io 2</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://d1tm91r4ytbt54.cloudfront.net/4a2bd50a-0f2f-45be-9e66-a2adf5849945/1680626121644/1v1-lol/index.html">1v1.lol</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://jsitor.com/preview/ld4SH42SNQ">Wave Dash</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://egj26q0wqgramqlkatckeq3k-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/bobydob/JSEngine@ef23f79324c37921a9e7e53dadd30c9721235820/build/m3mw/m3mw.xml&container=ig">Moto X3M</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/bessiegasbarro/minisoc@4ceb42d13ca56353ada7973552c16874c033483a/ms.xml&container=ig">Mini Car Soccer</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://jsitor.com/preview/22r4a-ts8v">Time Shooter 1</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://games.ideate.cmu.edu/gdpp/db3/cattle/">Dodgeball</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://classroom-opensocial.googleusercontent.com/gadgets/ifr?url=https://groups.google.com/group/ixl-classroom/attach/16182ad785d6c/gg.xml?part=0.1&view=1&container=ig">Classroom GG</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://www.experimonkey.com/games/bloons-tower-defense-2">Bloons TD2</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://aenguspatterson.com/pages/games/slope/index.html">Slope</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://mages-opensocial.googleusercontent.com/gadgets/ifr?url=https://googleusercontent.b-cdn.net/pixel-shooter/ps.xml&container=ig">Pixel Shooter</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://www.cbc.ca/kidscbc2/content/games/new_soccer/index.html">New Soccer</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://www.iqutest.com/game/ovo">OVO</a>
+            </div>
+
+            <div class="link-card">
+                <a href="https://www.iqutest.com/game/ovo-2">OVO 2</a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const searchBox = document.getElementById('searchBox');
+        const linkCards = document.querySelectorAll('.link-card');
+
+        searchBox.addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+
+            linkCards.forEach(card => {
+                const link = card.querySelector('a');
+                const gameName = link.textContent.toLowerCase();
+                
+                if (gameName.includes(searchTerm)) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+    </script>
+</body>
+</html>
